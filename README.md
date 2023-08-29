@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nicolas</h1>
 
-<p align="center">Developer for nearly ten years, I am always interested in improving my skills and discovering new things on top of the technology. During my career, I worked as FullStack/Mobile Developer and DevOps. I am currently working as SRE (Site Reliability Engineer).</p>
+<p align="center">Developer for nearly ten years, I am always interested in improving my skills and discovering new things on top of the technology. During my career, I worked as FullStack/Mobile Developer, DevOps and SRE (Site Reliability Engineer). I am currently working as Head Of Platform.</p>
 
 <p align="center">
 <a href="https://twitter.com/_nicovak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_nicovak" height="20" width="30" /></a>
@@ -11,13 +11,13 @@
 
 - 🔭 I’m currently working **@Plezi**
 - 📝 I regularly write articles on [my blog](https://www.nicovak.com)
-- 🌱 I’m currently learning **GoLang, Rust**
+- 🌱 I’m currently learning **Golang, Rust**
 
 <h4 align="left">Languages & Others</h4>
 
 ![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby&logoColor=CC342D)
 ![RoR](https://img.shields.io/badge/-Ruby%20On%20Rails-05122A?style=flat&logo=rubyonrails&logoColor=CC0000)
-![Go](https://img.shields.io/badge/-GoLang-05122A?style=flat&logo=go&logoColor=00a7d0)
+![Go](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go&logoColor=00a7d0)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=4169E1)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-05122A?style=flat&logo=elasticsearch&logoColor=005571)
 ![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=apachekafka&logoColor=231F20)
